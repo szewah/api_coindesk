@@ -1,0 +1,22 @@
+html {
+	height: 100%;
+}
+
+.container {
+	margin-top: 20%;
+}
+
+
+#app {
+	background-color: #DF691A;
+	width: 50%;
+	margin: auto;
+	text-align: center;
+	border-radius: 15px;
+	padding: 20px;
+
+}
+
+.lighten {
+	
+}
